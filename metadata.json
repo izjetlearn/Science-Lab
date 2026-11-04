@@ -1,0 +1,6 @@
+{
+  "name": "ScienceLab - Interactive Virtual Laboratory",
+  "description": "Interactive virtual science laboratory with chemistry, physics, geology, and genetics simulations, real-time telemetry graphs, and scientific quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
